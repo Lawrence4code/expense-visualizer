@@ -1,0 +1,15 @@
+{
+  "name": "expense-visualizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --out-dir build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "firebase": "^5.5.7",
+    "parcel-bundler": "^1.10.3"
+  }
+}
