@@ -38,3 +38,5 @@ dist/
 maps/
 .vscode/
 .cache/
+config.js
+config1.js
